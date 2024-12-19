@@ -1,0 +1,1 @@
+Use the right and left arrows to move, the up arrow to jump, the down arrow to swim under water, and the space button to fly. Flying and swimming have a recharge time. If you hit an object the game ends, if you reach the land, you win.
